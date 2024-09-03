@@ -20,10 +20,10 @@ Radius Outlier Removal: This method eliminates points that do not have a suffici
 
 Repository Structure
 
-src/: Contains the Python scripts for noise filtering.
+py: Contains the Python scripts for noise filtering.
 
-data/: A sample dataset to test the filtering techniques.
+pcd: A sample dataset to test the filtering techniques.
 
-notebooks/: Jupyter notebooks that document the experimentation process.
+ipynb: Jupyter notebooks that document the experimentation process.
 
 README.md: Project overview and documentation.
